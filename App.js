@@ -1,5 +1,3 @@
-// In App.js in a new project
-
 import React, {Component} from 'react';
 import {View, Text} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
@@ -14,7 +12,6 @@ function LoginScreen() {
     </View>
   );
 }
-
 
 const Stack = createNativeStackNavigator();
 
